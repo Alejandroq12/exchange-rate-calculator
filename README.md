@@ -4,7 +4,7 @@
   <img src="assets/logo.png" alt="logo" width="450"  height="auto" />
   <br/>
 
-  <h3><b>Custom Video Player</b></h3>
+  <h3><b>Exchange Rate Calculator</b></h3>
 
 </div>
 
@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Custom Video Player ](#-custom-video-player-)
+- [📖 Exchange Rate Calculator ](#-exchange-rate-calculator-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,13 +31,14 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [❓ FAQ ](#-faq-)
+  - [📝 Disclaimer ](#-disclaimer-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Custom Video Player <a name="about-project"></a>
+# 📖 Exchange Rate Calculator <a name="about-project"></a>
 
-This is a custom video player created to practice CSS, HTML, and JavaScript.
+Meet the "Exchange Rate Calculator," a simple yet effective web-based tool built using Javascript, CSS, and HTML. This straightforward calculator enables users to convert between various global currencies with up-to-date exchange rates. With a clean design and easy-to-use interface, the Exchange Rate Calculator is a practical solution for travelers and anyone needing to perform currency conversions. Try it out for a hassle-free approach to managing foreign exchange.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -58,7 +59,7 @@ This is a custom video player created to practice CSS, HTML, and JavaScript.
 ### Key Features <a name="key-features"></a>
 
 
-- **Custom video player**
+- **Wide currency selection: My calculator supports a comprehensive list of global currencies, making it easy to convert between your desired currency pairs.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +93,7 @@ Clone this repository to your desired folder:
 
 ```
   cd my-folder
-  git clone https://github.com/Alejandroq12/video-player.git
+  git clone https://github.com/Alejandroq12/exchange-rate-calculator.git
 ```
 
 
@@ -168,7 +169,6 @@ If you like this project please give me a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Traversy Media for his amazing content and incredible learning platform.
-I would like to thank CSS Tricks because I found the code for custom video controls there.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,6 +179,15 @@ I would like to thank CSS Tricks because I found the code for custom video contr
 - **What did you learn?**
 
   - I learned a lot about event listeners.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- DISCLAIMER -->
+
+## 📝 Disclaimer <a name="license"></a>
+
+Disclaimer: I have created the Exchange Rate Calculator for informational purposes only, and it should not be relied upon for any financial decision-making. While I strive to ensure the accuracy of the exchange rates used in the calculations, I cannot guarantee their correctness at all times due to the volatile nature of currency markets. Users are advised to independently verify the exchange rates before making any financial transactions or commitments. As the developer of the Exchange Rate Calculator, I shall not be held responsible for any errors, omissions, or financial losses resulting from the use of this tool.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
