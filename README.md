@@ -68,7 +68,7 @@ Meet the "Exchange Rate Calculator," a simple yet effective web-based tool built
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://alejandroq12.github.io/video-player/)
+- [Live Demo Link](https://alejandroq12.github.io/exchange-rate-calculator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
