@@ -57,3 +57,11 @@ p {
   background-size: 12px auto, 100%;
   background-repeat: no-repeat;
 }
+
+.currency input {
+  border: 0;
+  background: transparent;
+  font-size: 30px;
+  text-align: right;
+}
+
