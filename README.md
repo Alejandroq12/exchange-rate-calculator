@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="assets/logo.png" alt="logo" width="450"  height="auto" />
+  <img src="img/logo.png" alt="logo" width="450"  height="auto" />
   <br/>
 
   <h3><b>Exchange Rate Calculator</b></h3>
